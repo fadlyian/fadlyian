@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>I am a dedicated developer who thrives on challenges and continually seeks to learn and grow. With a background in both frontend and backend technologies, I am enthusiastic about building user-friendly and performant applications. My aim is to combine creativity and technical expertise to deliver high-quality software solutions.
+## About Me<br><br>I am a dedicated developer who thrives on challenges and continually seeks to learn and grow. With a background in both frontend and backend technologies, I am enthusiastic about building user-friendly and performant applications. My aim is to combine creativity and technical expertise to deliver high-quality software solutions. visit my website portfolio this [fadlyian.my.id](https://www.fadlyian.my.id) 
 
 
 ## 🌐 Socials:
